@@ -1,3 +1,5 @@
+// strtok shim provided by Intel technical support 
+
 #define _GNU_SOURCE 1
 
 #include <string.h>
